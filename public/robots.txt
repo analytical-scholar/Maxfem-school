@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /student-portal
+
+Sitemap: /sitemap.xml

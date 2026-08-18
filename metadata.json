@@ -1,0 +1,6 @@
+{
+  "name": "Maxfem International School",
+  "description": "Comprehensive school web portal with secure Supabase authentication, PostgreSQL RLS security, role-based access control, Phase 6 Results & Academic Analytics System, Phase 5 CBT Examination System, Phase 4 Admissions Management System, Phase 3 Admin, Teacher, and Student Portals, academic session management, and classroom allocations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
